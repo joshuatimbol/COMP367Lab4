@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBS+zHnz7xq3ghtAYNtlKTT86cdjZjFBwF7KzSusNi7OAxcz6X+f1sT70haFSaxzstOlyUX67+uBmxoGGucJCw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\joshu\\Downloads\\COMP367Lab4-main\\COMP367Lab4-main\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  ShowCase -> StringLibrary -> StringLibrary.",
+      "libraryId": "StringLibrary",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

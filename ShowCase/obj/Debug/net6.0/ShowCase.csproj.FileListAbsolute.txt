@@ -1,0 +1,15 @@
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\bin\Debug\net6.0\ShowCase.exe
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\bin\Debug\net6.0\ShowCase.deps.json
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\bin\Debug\net6.0\ShowCase.runtimeconfig.json
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\bin\Debug\net6.0\ShowCase.dll
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\bin\Debug\net6.0\ShowCase.pdb
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.csproj.AssemblyReference.cache
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.AssemblyInfo.cs
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.dll
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\refint\ShowCase.dll
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.pdb
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ShowCase.genruntimeconfig.cache
+C:\Users\joshu\Downloads\COMP367Lab4-main\COMP367Lab4-main\ShowCase\obj\Debug\net6.0\ref\ShowCase.dll

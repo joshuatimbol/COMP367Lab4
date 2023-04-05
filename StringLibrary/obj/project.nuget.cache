@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPXbTQpShUZbiFnffC1iyAsWqCx8IWuOXnY7uBbM6Q5YWI1t4RdiDDNaSkDNNC+F4WD50AGHr49bojBucFeqUQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\joshu\\Downloads\\COMP367Lab4-main\\COMP367Lab4-main\\StringLibrary\\StringLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  StringLibrary -> StringLibrary.",
+      "libraryId": "StringLibrary",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
