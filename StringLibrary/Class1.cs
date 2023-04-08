@@ -1,4 +1,5 @@
-﻿namespace UtilityLibraries;
+﻿namespace UtilityLibraries
+{
 
 public static class StringLibrary
 {
@@ -10,4 +11,6 @@ public static class StringLibrary
         char ch = str[0];
         return char.IsUpper(ch);
     }
+}
+     
 }
